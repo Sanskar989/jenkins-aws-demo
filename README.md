@@ -210,8 +210,12 @@ This project gave me foundational hands-on experience with modern DevOps practic
 
 ![Screenshot 2025-06-23 181423](https://github.com/user-attachments/assets/5b104c48-a19f-48c5-bf55-061c4c375211)
 
+## **CleanUp**
+![Screenshot 2025-06-23 190443](https://github.com/user-attachments/assets/b9fb26af-96fd-418d-90b8-2299a1821130)
+![Screenshot 2025-06-23 191547](https://github.com/user-attachments/assets/035ecab3-8b6f-4973-8a8b-8bf6e0221341)
+
 ---
 
 ## **Made By**
-**SANSKAR GOYAL**
+*SANSKAR GOYAL*
 
