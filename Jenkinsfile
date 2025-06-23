@@ -1,5 +1,5 @@
 pipeline {
-    agent { label 'linux' }
+    agent { label 'linux-sanskar' }
     stages {
         stage('Install Dependencies') {
             steps {
